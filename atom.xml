@@ -6,7 +6,7 @@
   <link href="https://blog.huasushis.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.huasushis.cn/"/>
-  <updated>2023-07-02T14:11:46.631Z</updated>
+  <updated>2023-07-03T13:48:58.003Z</updated>
   <id>https://blog.huasushis.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>7.3 测试</title>
+    <link href="https://blog.huasushis.cn/07/04/2023/7.3%20%E6%B5%8B%E8%AF%95/"/>
+    <id>https://blog.huasushis.cn/07/04/2023/7.3%20%E6%B5%8B%E8%AF%95/</id>
+    <published>2023-07-04T01:47:40.000Z</published>
+    <updated>2023-07-03T13:48:58.003Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h1><p><a href>题目链接</a></p><p><strong>成绩表</strong></p><p><img lazyload src="/images/loading.svg" data-src="/" alt="成绩表"></p><p>描述</p><h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>something</p><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>code </summary>              <div class="content">              <div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line"> </span><br><span class="line">{% endfolding %}</span><br><span class="line"></span><br><span class="line">## T2</span><br><span class="line"></span><br><span class="line">something</span><br><span class="line"></span><br><span class="line">{% folding cyan::code %}</span><br><span class="line"> </span><br><span class="line">```cpp</span><br></pre></td></tr></table></figure></div>              </div>            </details><h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>someting</p><details class="cyan" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>code </summary>              <div class="content">              <div class="highlight-container" data-rel="Cpp"><figure class="iseeu highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure></div>              </div>            </details><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>something</p>]]></content>
+    
+    
+    <summary type="html">状态似乎愈加好了呢</summary>
+    
+    
+    
+    <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
+    
+    <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>7.1 测试</title>
@@ -142,13 +167,13 @@
   </entry>
   
   <entry>
-    <title>绍兴一中训练记录</title>
-    <link href="https://blog.huasushis.cn/07/02/2023/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/"/>
-    <id>https://blog.huasushis.cn/07/02/2023/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</id>
+    <title>S城一中训练记录</title>
+    <link href="https://blog.huasushis.cn/07/02/2023/S%E5%9F%8E%E4%B8%80%E4%B8%AD%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/"/>
+    <id>https://blog.huasushis.cn/07/02/2023/S%E5%9F%8E%E4%B8%80%E4%B8%AD%E8%AE%AD%E7%BB%83%E8%AE%B0%E5%BD%95/</id>
     <published>2023-07-02T01:14:27.000Z</published>
-    <updated>2023-07-02T07:32:36.687Z</updated>
+    <updated>2023-07-03T13:48:30.305Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>这十天来到绍兴，旅程虽未结束，也是在望。收获不尽， 感激涕零。见山水之苍茫，人才之聪慧。人杰地灵，山清水秀。</p><p>这次经历，算是第一次到外省见识其它的 OI 选手，激动与紧张。显然，差距很大，路途遥远，但我相信，路漫漫其修远兮，吾将上下而求索。努力奋斗，便能抵达光明，<del>脱离苦海</del>！</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>这十天来到 S 城，旅程虽未结束，也是在望。收获不尽， 感激涕零。见山水之苍茫，人才之聪慧。人杰地灵，山清水秀。</p><p>这次经历，算是第一次到外省见识其它的 OI 选手，激动与紧张。显然，差距很大，路途遥远，但我相信，路漫漫其修远兮，吾将上下而求索。努力奋斗，便能抵达光明，<del>脱离苦海</del>！</p>]]></content>
     
     
     <summary type="html">十天绍兴之旅，饮山水之灵秀</summary>
@@ -304,9 +329,9 @@
     <category term="春季测试2023" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/%E6%98%A5%E5%AD%A3%E6%B5%8B%E8%AF%952023/"/>
     
     
-    <category term="线段树" scheme="https://blog.huasushis.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
-    
     <category term="数据结构" scheme="https://blog.huasushis.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="线段树" scheme="https://blog.huasushis.cn/tags/%E7%BA%BF%E6%AE%B5%E6%A0%91/"/>
     
   </entry>
   
