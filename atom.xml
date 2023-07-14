@@ -6,7 +6,7 @@
   <link href="https://blog.huasushis.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.huasushis.cn/"/>
-  <updated>2023-07-05T14:48:33.916Z</updated>
+  <updated>2023-07-14T13:40:52.351Z</updated>
   <id>https://blog.huasushis.cn/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023年29周总结</title>
+    <link href="https://blog.huasushis.cn/07/15/2023/2023%E5%B9%B429%E5%91%A8%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/07/15/2023/2023%E5%B9%B429%E5%91%A8%E6%80%BB%E7%BB%93/</id>
+    <published>2023-07-15T01:19:15.000Z</published>
+    <updated>2023-07-14T13:40:52.351Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="序"><a href="#序" class="headerlink" title="序"></a>序</h1><p>这周连续几天考试，感觉很累，但是也收获了很多，有一天还感冒了……悲伤，结果感冒那天还是考得最好那天……</p><h1 id="考试"><a href="#考试" class="headerlink" title="考试"></a>考试</h1><p>三四题都很难，有几天的第四题都没有改出来，嗐，多办是很长一段时间都改不了了，虚度光阴。</p><h1 id="好题选讲"><a href="#好题选讲" class="headerlink" title="好题选讲"></a>好题选讲</h1><p>这周有两位国家队选手给我们分别讲了 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: 0;" xmlns="http://www.w3.org/2000/svg" width="1.131ex" height="1.507ex" role="img" focusable="false" viewbox="0 -666 500 666"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/></g></g></g></svg></mjx-container> 天的题目，分别是程思远和刘一平，喜剧的是两人有一道选题重了：</p><ul><li><mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="3.394ex" height="1.557ex" role="img" focusable="false" viewbox="0 -666 1500 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"/><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(1000,0)"/></g></g></g></svg></mjx-container> 个 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="6.712ex" height="2.262ex" role="img" focusable="false" viewbox="0 -750 2966.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="5B" d="M118 -250V750H255V710H158V-210H255V-250H118Z"/></g><g data-mml-node="mn" transform="translate(278,0)"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"/></g><g data-mml-node="mo" transform="translate(778,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/></g><g data-mml-node="mn" transform="translate(1222.7,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/></g><g data-mml-node="mi" transform="translate(1722.7,0)"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"/></g><g data-mml-node="mn" transform="translate(2188.7,0)"><path data-c="39" d="M352 287Q304 211 232 211Q154 211 104 270T44 396Q42 412 42 436V444Q42 537 111 606Q171 666 243 666Q245 666 249 666T257 665H261Q273 665 286 663T323 651T370 619T413 560Q456 472 456 334Q456 194 396 97Q361 41 312 10T208 -22Q147 -22 108 7T68 93T121 149Q143 149 158 135T173 96Q173 78 164 65T148 49T135 44L131 43Q131 41 138 37T164 27T206 22H212Q272 22 313 86Q352 142 352 280V287ZM244 248Q292 248 321 297T351 430Q351 508 343 542Q341 552 337 562T323 588T293 615T246 625Q208 625 181 598Q160 576 154 546T147 441Q147 358 152 329T172 282Q197 248 244 248Z"/></g><g data-mml-node="mo" transform="translate(2688.7,0)"><path data-c="5D" d="M22 710V750H159V-250H22V-210H119V710H22Z"/></g></g></g></svg></mjx-container> 的数对 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="5.169ex" height="2.262ex" role="img" focusable="false" viewbox="0 -750 2284.7 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/></g><g data-mml-node="mi" transform="translate(389,0)"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"/></g><g data-mml-node="mo" transform="translate(961,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/></g><g data-mml-node="mi" transform="translate(1405.7,0)"><path data-c="1D466" d="M21 287Q21 301 36 335T84 406T158 442Q199 442 224 419T250 355Q248 336 247 334Q247 331 231 288T198 191T182 105Q182 62 196 45T238 27Q261 27 281 38T312 61T339 94Q339 95 344 114T358 173T377 247Q415 397 419 404Q432 431 462 431Q475 431 483 424T494 412T496 403Q496 390 447 193T391 -23Q363 -106 294 -155T156 -205Q111 -205 77 -183T43 -117Q43 -95 50 -80T69 -58T89 -48T106 -45Q150 -45 150 -87Q150 -107 138 -122T115 -142T102 -147L99 -148Q101 -153 118 -160T152 -167H160Q177 -167 186 -165Q219 -156 247 -127T290 -65T313 -9T321 21L315 17Q309 13 296 6T270 -6Q250 -11 231 -11Q185 -11 150 11T104 82Q103 89 103 113Q103 170 138 262T173 379Q173 380 173 381Q173 390 173 393T169 400T158 404H154Q131 404 112 385T82 344T65 302T57 280Q55 278 41 278H27Q21 284 21 287Z"/></g><g data-mml-node="mo" transform="translate(1895.7,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/></g></g></g></svg></mjx-container> ，然后要压缩成不超过 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="4.525ex" height="1.557ex" role="img" focusable="false" viewbox="0 -666 2000 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"/><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(500,0)"/><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(1000,0)"/><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z" transform="translate(1500,0)"/></g></g></g></svg></mjx-container> 位的 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="2.262ex" height="1.557ex" role="img" focusable="false" viewbox="0 -666 1000 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"/><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z" transform="translate(500,0)"/></g></g></g></svg></mjx-container> 串，要求问 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.294ex" height="1.025ex" role="img" focusable="false" viewbox="0 -442 572 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"/></g></g></g></svg></mjx-container> 求 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.464ex;" xmlns="http://www.w3.org/2000/svg" width="1.109ex" height="1.464ex" role="img" focusable="false" viewbox="0 -442 490 647"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D466" d="M21 287Q21 301 36 335T84 406T158 442Q199 442 224 419T250 355Q248 336 247 334Q247 331 231 288T198 191T182 105Q182 62 196 45T238 27Q261 27 281 38T312 61T339 94Q339 95 344 114T358 173T377 247Q415 397 419 404Q432 431 462 431Q475 431 483 424T494 412T496 403Q496 390 447 193T391 -23Q363 -106 294 -155T156 -205Q111 -205 77 -183T43 -117Q43 -95 50 -80T69 -58T89 -48T106 -45Q150 -45 150 -87Q150 -107 138 -122T115 -142T102 -147L99 -148Q101 -153 118 -160T152 -167H160Q177 -167 186 -165Q219 -156 247 -127T290 -65T313 -9T321 21L315 17Q309 13 296 6T270 -6Q250 -11 231 -11Q185 -11 150 11T104 82Q103 89 103 113Q103 170 138 262T173 379Q173 380 173 381Q173 390 173 393T169 400T158 404H154Q131 404 112 385T82 344T65 302T57 280Q55 278 41 278H27Q21 284 21 287Z"/></g></g></g></svg></mjx-container> ，保证 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.294ex" height="1.025ex" role="img" focusable="false" viewbox="0 -442 572 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"/></g></g></g></svg></mjx-container> 存在，所有信息都来源于这个串。这个我当时也想到了，用拉格朗日插值，还有一个更复杂的方法，映射 + 取模，看起来就恶心。</li></ul><p>然后我的评价是，刘一平讲得比程思远似乎更详细一些<del>（有可能是我问的问题太多了）</del>，但两个人都是十分优秀的，值得学习。然后题目很有难度，现在可能写不出来。</p><h2 id="刘一平的谆谆教诲"><a href="#刘一平的谆谆教诲" class="headerlink" title="刘一平的谆谆教诲"></a>刘一平的谆谆教诲</h2><p>感谢 dzr 的贡献<del>（其实是抢电脑来发的）</del>，让我有了这一篇笔记。</p><ul><li><ol><li>代码能力不到，debug时间太长 -&gt; 基础差 -&gt; 多打代码练习。基础不扎实：贪心、dp 、基础数据结构、SA 、AC 自动机、kmp 、treap 、ntt 等根本没有掌握 -&gt; 要多复习。</li></ol></li><li><ol start="2"><li>打 CF ( VP 也行)，每一场比赛都当做正式比赛。不用看题解，比赛结束后继续不看题解做，不会就算了，放弃这道题。看本场比赛排行前5的人写的你会的那些题目的代码，向他们的代码学习。</li></ol></li><li><ol start="3"><li>会了就一定要写，尽可能一遍写对（写的时候不编译，编译以后一遍过）。</li></ol></li><li><ol start="4"><li>写的丑、代码麻烦 -&gt; 学习本场前5名的做法与风格。</li></ol></li><li><ol start="5"><li>做题不可图多，图难，循序渐进。</li></ol></li><li><ol start="6"><li>除非太紧张，否则不要边听歌边写题。 打模拟赛绝对不能分神。 听歌会影响质量。</li></ol></li><li><ol start="7"><li>CF 尽量打现场，根据自己身体和精神状况来看。</li></ol></li><li><ol start="8"><li>打模拟赛也要写对拍。当成只有1次提交来做。暴力要能在5分钟内写完，需要良好基础。</li></ol></li><li><ol start="9"><li>在平时的比赛中总结技巧。</li></ol></li><li><ol start="10"><li>有两条编译命令：</li></ol><ul><li>1.-D_GLIBCXX_DEBUG：检验 STL 问题。</li></ul></li></ul><p>    - 2.-fsanitize=undefined：检验栈溢出。</p><pre><code>- 会减缓运行速度，所以测速的时候要记得关掉。</code></pre><ul><li><ol start="11"><li>一心一意，什么时间做什么事。</li></ol></li><li><ol start="12"><li>考试前几个月坚持每天跑步，增强精神与体力。</li></ol></li></ul><h1 id="感想"><a href="#感想" class="headerlink" title="感想"></a>感想</h1><p>要扎实基础，高效利用时间，并且要劳逸结合。以后不能无所事事，可以尽快改完早上的题，可以打场 vp 或者真题之类的，也要把一些其它的比如说后缀自动机，SAM，多项式，杜教筛之类的复习一下。但或许我还是要先将模板写完罢，虽然感觉板块少，但是还是任重道远乎。</p>]]></content>
+    
+    
+    <summary type="html">这一周发生了什么呢？</summary>
+    
+    
+    
+    <category term="总结" scheme="https://blog.huasushis.cn/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="总结" scheme="https://blog.huasushis.cn/tags/%E6%80%BB%E7%BB%93/"/>
+    
+    <category term="感想" scheme="https://blog.huasushis.cn/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>7.5 随笔</title>
@@ -54,9 +77,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -79,9 +102,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -104,9 +127,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -129,9 +152,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -154,9 +177,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -179,9 +202,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -204,9 +227,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
     <category term="随机化" scheme="https://blog.huasushis.cn/tags/%E9%9A%8F%E6%9C%BA%E5%8C%96/"/>
     
@@ -250,9 +273,9 @@
     <category term="题解" scheme="https://blog.huasushis.cn/categories/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
-    
     <category term="绍兴一中" scheme="https://blog.huasushis.cn/tags/%E7%BB%8D%E5%85%B4%E4%B8%80%E4%B8%AD/"/>
+    
+    <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
     
   </entry>
   
@@ -273,9 +296,9 @@
     <category term="游记" scheme="https://blog.huasushis.cn/categories/%E6%B8%B8%E8%AE%B0/"/>
     
     
-    <category term="中考" scheme="https://blog.huasushis.cn/tags/%E4%B8%AD%E8%80%83/"/>
-    
     <category term="考试" scheme="https://blog.huasushis.cn/tags/%E8%80%83%E8%AF%95/"/>
+    
+    <category term="中考" scheme="https://blog.huasushis.cn/tags/%E4%B8%AD%E8%80%83/"/>
     
     <category term="升学" scheme="https://blog.huasushis.cn/tags/%E5%8D%87%E5%AD%A6/"/>
     
@@ -474,33 +497,6 @@
     <category term="平衡树" scheme="https://blog.huasushis.cn/tags/%E5%B9%B3%E8%A1%A1%E6%A0%91/"/>
     
     <category term="FHQ Treap" scheme="https://blog.huasushis.cn/tags/FHQ-Treap/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>终寂主义</title>
-    <link href="https://blog.huasushis.cn/03/18/2023/%E7%BB%88%E5%AF%82%E4%B8%BB%E4%B9%89/"/>
-    <id>https://blog.huasushis.cn/03/18/2023/%E7%BB%88%E5%AF%82%E4%B8%BB%E4%B9%89/</id>
-    <published>2023-03-18T03:35:23.000Z</published>
-    <updated>2023-04-01T15:47:41.455Z</updated>
-    
-    <content type="html"><![CDATA[<p>#随笔 #终寂主义</p><p><img lazyload src="/images/loading.svg" data-src="https://cdn.staticaly.com/gh/Huasushis/imagebed@main/img/20230318071459.png" alt="头图"></p><hr><blockquote><p><em>生于静，亡于静，起起伏伏，正正负负，相抵为无，似有似无。不知其意，曲始而烂，曲终而无。则曲何时亦能再奏？无中生有，有中生阴，阳阳阴阴，何乃有之？不得而知。只知今日之高昂必有他日之坠落，或极高，遂或极低。欲与世隔绝，虽曲已响，亦自我相抵，则于世无存乎。此世之我，他世之我，我我相合，则无焉。则何为知音？阴阳之补也，趋向中庸。</em></p></blockquote><hr><p>　　我们起源于宁静的弦波中，最终又将归于宁静，正负总是相抵的，寂静是谁也改变不了的最终的归宿。 我们是一段旋律，纵然只有一瞬。所谓的歌曲，不过是一块小石头打破了湖面的平静，下一次的激荡，又在何时？这个世界的你，那个世界的你，所有世界的你，加起来，也只是一团虚无。永久的宁静啊，不如做这波澜的湖面中缓缓流淌的一丝水流。我们既然存在，那就不可否认的会出现波浪，进入这个世界。我愿与世隔绝，当自己已经足够平衡，那便足够了。我们寻找知音，无非也是为了找到旋律相消的一个，来获得中庸的宁静。快乐的对立是悲伤，有人越高，就必定会有人在低谷中，这首乐曲也就越是激荡，起伏。我渴望轻轻的音乐，可惜我不是神明，我是音符。那么人生还有什么意义呢，我们不能回答，但是听者能回答。我们可以认为自己有意义，也可以认为自己没有意义。听者欣赏旋律，那必定是认为乐曲是有意义的，但是这似乎是集体的意义，个人只是一部分，但是没有每一个人，乐曲就少了些滋味。那听者存在的意义又是什么？这是听者的问题，对于人，对于每一个音符，那就做一个音符，做一个平静，淡雅的音符。</p><p>　　我们自己又能创造什么样的属于我们自己的艺术呢？这个世界，那个世界，艺术是相反的，只有能永远存在于乐曲中永恒不变的艺术，才是真正普及宇宙的艺术。它是对称的，自我矛盾的，黑白两立的。翻转、对称、旋转、反色，同样的图案，便是高雅的艺术。这是阴阳相消的，中庸的，平衡的。使人宁静，深思。它是无中的无，但又不是无。总的为无，细看却又是多姿的。无论是音乐还是图案，这样的艺术是永恒的，美丽的，没有意义的。我们不用去追求什么有意义的事情，没有意义的意义，才值得深思。太极的图案，也就是这种。它自己是平衡的，它来自于宇宙的观察，宇宙也是平衡的。我们的艺术，也就是宇宙的缩影。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;#随笔 #终寂主义&lt;/p&gt;
-&lt;p&gt;&lt;img lazyload src=&quot;/images/loading.svg&quot; data-src=&quot;https://cdn.staticaly.com/gh/Huasushis/imagebed@main/img/2023031807145</summary>
-      
-    
-    
-    
-    <category term="随笔" scheme="https://blog.huasushis.cn/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="思想" scheme="https://blog.huasushis.cn/tags/%E6%80%9D%E6%83%B3/"/>
-    
-    <category term="终寂主义" scheme="https://blog.huasushis.cn/tags/%E7%BB%88%E5%AF%82%E4%B8%BB%E4%B9%89/"/>
     
   </entry>
   
