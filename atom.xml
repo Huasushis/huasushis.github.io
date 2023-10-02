@@ -102,7 +102,7 @@
     <link href="https://blog.huasushis.cn/08/06/2023/AFO%20%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     <id>https://blog.huasushis.cn/08/06/2023/AFO%20%E5%B0%8F%E6%8A%80%E5%B7%A7/</id>
     <published>2023-08-05T19:18:24.000Z</published>
-    <updated>2023-10-01T15:20:23.051Z</updated>
+    <updated>2023-10-02T15:27:09.401Z</updated>
     
     <content type="html"><![CDATA[<h1 id="AFO-小技巧"><a href="#AFO-小技巧" class="headerlink" title="AFO 小技巧"></a>AFO 小技巧</h1><ul><li><code>//freopen</code></li><li><code>#include &lt;bits\stdc++.h&gt;</code></li><li><code>fork()</code></li><li>非 <code>void</code> 无返回值</li><li>忘记取模，如 <code>a * b % mod * c</code></li><li>不开 <code>long long</code></li><li>位运算不加括号</li><li>运算宏不加括号</li><li>不删调试语句</li><li><code>long long</code> 用 <code>%d</code> 读入/输出</li><li>取模减法不判负</li><li>快速幂不返回值</li><li>Treap 把值当成堆的随机值</li><li>写了 <code>inline</code> 不加返回类型</li><li>结构体包含指针不重写 <code>=</code></li><li><code>sort</code> 的比较函数不严格小于（莫队排序时）</li><li>变量名 <code>next, x1, y1, x2, y2</code></li><li>读题不仔细<ul><li>没有看到是树</li><li>不看空间限制</li><li>不看（看错）数据范围</li><li>不看细节，想当然</li></ul></li></ul>]]></content>
     
