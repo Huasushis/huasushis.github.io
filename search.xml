@@ -1753,4 +1753,39 @@
         <tag>普及</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年10月11日模拟赛</title>
+    <url>/10/12/2023/2023%E5%B9%B410%E6%9C%8811%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</url>
+    <content><![CDATA[<p>[[素数筛]] [[矩阵快速幂]] [[动态dp]] [[虚树]]</p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><a class="link" href="http://oi.cdshishi.net:9001/contest/6525328b118f6a063d19c129">题目链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>今天高二考的和我们不一样，因为太难了。</p>
+<p>我们这边稍微比较简单。但是我失误啦！</p>
+<h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>挺有趣的，埃氏筛的想法，很有趣，简单易懂，但是有个小细节。</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>我觉得不难但是炸了啊！</p>
+<p>得到了教训：对着大样例改了代码之后一定要再回去检查小样例！</p>
+<p>100 pts 直接挂到了11分，主要是两个小错误：</p>
+<ol>
+<li>使我挂了小数据</li>
+<li>使我挂了大数据</li>
+</ol>
+<p>太悲伤了，第一个是我后面改了初值导致最后结果要减一，我改了大数据对应的减一没改小的，对应上面的教训；第二个是要取模我在矩阵里写了个 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.186ex;" xmlns="http://www.w3.org/2000/svg" width="2.891ex" height="1.692ex" role="img" focusable="false" viewbox="0 -666 1278 748"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mo"><path data-c="2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"/></g><g data-mml-node="mn" transform="translate(778,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/></g></g></g></svg></mjx-container>？太离谱了，呜呜呜。</p>
+<p>推一推式子，矩阵快速幂就行。</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>这道题也不难，动态 dp，思想很好理解，我的感觉就是去把 dp 这种函数一样的东西，将函数进行合并。</p>
+<p>式子也不难推，很好理解，写起来行云流水，一气呵成。</p>
+<p>不过暴力都有 73 pts 啊。</p>
+<h2 id="T4"><a href="#T4" class="headerlink" title="T4"></a>T4</h2><p>这道题算是有点难度了。要建虚树，不过我不太了解这个，所以一眼不会，不过中间有些地方我的思路我发现我竟然想到了类似去将树缩成关键点和结构的想法，但是不会建和判，还是比较像虚树的，要是能考场上手搓虚树那就很 6 了。</p>
+<p>去练一下虚树的题目哈哈。</p>
+<p>还是不会 T4，要请教邓老师。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>开心每一天哈哈。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>素数筛</tag>
+        <tag>矩阵快速幂</tag>
+        <tag>动态dp</tag>
+        <tag>虚树</tag>
+      </tags>
+  </entry>
 </search>
