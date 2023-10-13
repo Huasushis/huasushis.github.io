@@ -219,12 +219,12 @@
     <link href="https://blog.huasushis.cn/10/04/2023/2023%E5%B9%B410%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/"/>
     <id>https://blog.huasushis.cn/10/04/2023/2023%E5%B9%B410%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-10-04T00:24:46.000Z</published>
-    <updated>2023-10-04T11:37:30.077Z</updated>
+    <updated>2023-10-13T15:32:40.838Z</updated>
     
     <content type="html"><![CDATA[<p>[[线段树]]</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>今天做的题还蛮多的。把9道基本模板打了，还打了几道练习赛中的。</p><p>总之线段树有很多种写法。</p><p>但是像区间赋值之类的我还是钟爱珂朵莉(*￣▽￣*)ブ</p><p>特别地，</p><p>在练习赛中的前三题，经过多人讨论，发现都可以不用线段树做出来 doge：</p><ul><li>T1：用树状数组，倒过来就行。</li><li>T2: 还是用树状数组，嘿嘿，还是倒过来，详情见 <a class="link" href="http://oi.cdshishi.net:9001/record/651be9f9118f6a063d180ac8">代码 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</li><li>T3: 这道题我是真没想出来怎么用线段树做。想出来用单调栈做。不过要离散化，复杂度还是 log 级别的。感觉用单调栈也更好想啊。不过要用线段树的话，我也是能生搬硬套进去的。<a class="link" href="http://oi.cdshishi.net:9001/record/651c0620118f6a063d180f78">代码 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</li><li>至于序列那道题，我当然是爱珂朵莉啦！</li></ul><h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><p>特别注意！要开四倍空间！今天失误了好几次了！</p>]]></content>
     
     
-    <summary type="html">文章摘要</summary>
+    <summary type="html">珂朵莉树yyds！</summary>
     
     
     
