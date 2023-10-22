@@ -2133,9 +2133,9 @@
 <h1 id="Day-2"><a href="#Day-2" class="headerlink" title="Day 2"></a>Day 2</h1><p>今天天气很好啊，蓝蓝的天，不过下午开始有云了。今天是休息，心情相对比较轻松，空气依然是清新的呢。</p>
 <p>今天早上起来，对昨日的比赛的讨论还是如火如荼。我又尝试改了一下 T4，没成功，就打算等题解出来再仔细看看。好多 AK 的大佬，%%%。又看了一会 B 站，国际局势还是很复杂，我依旧还是个乐子人，也没有太大的兴趣了。教练在群里发了两个元首的视频，放在这里，供大家观看。</p>
 <div class="tabs" id="tab-bilibilivideo"><ul class="nav-tabs"><li class="tab active"><a class="#bilibilivideo-1">视频1</a></li><li class="tab"><a class="#bilibilivideo-2">视频2</a></li></ul><div class="tab-content"><div class="tab-pane active" id="bilibilivideo-1"><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=959958801&bvid=BV1Ep4y1M75p&cid=1307035968&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=959958801&bvid=BV1Ep4y1M75p&cid=1307035968&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no" sandbox></iframe>
 </div></div><div class="tab-pane" id="bilibilivideo-2"><div style="position: relative; padding: 30% 45%;">
-<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=364915669&bvid=BV1V94y1L7rQ&cid=1306910288&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?aid=364915669&bvid=BV1V94y1L7rQ&cid=1306910288&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no" sandbox></iframe>
 </div></div></div></div>
 
 <p>今天下午去打羽毛球，放松心情。后面又要准备考 noip 了，未来可期。</p>
