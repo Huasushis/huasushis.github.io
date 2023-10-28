@@ -1404,6 +1404,7 @@
 <li>启发式类的操作要进行 swap 的不把所有要交换的变量都 swap。</li>
 <li>读入数据把像 <code>n</code>、<code>m</code> 之类的顺序搞错</li>
 <li>循环次数将 n，m 搞混。</li>
+<li><code>#include&lt;bits/stdc++.H&gt;</code></li>
 </ul>
 ]]></content>
       <categories>
@@ -2314,6 +2315,27 @@
         <tag>匈牙利算法</tag>
         <tag>线性基</tag>
         <tag>dp后效性</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年10月28日模拟赛</title>
+    <url>/10/29/2023/2023%E5%B9%B410%E6%9C%8828%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</url>
+    <content><![CDATA[<h1 id="前情提要"><a href="#前情提要" class="headerlink" title="前情提要"></a>前情提要</h1><p><a class="link" href="http://oi.cdshishi.net:9001/contest/653c6bee4d55610660660a51">题目链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>嘻嘻，今天考炸了。T1 爆零了，因为头文件打错了（。详情请见 AFO 小技巧。</p>
+<p>感觉今天都是偏思维的。T2、T3 代码都不长；T1 还行，有很多细节（T4：？）。</p>
+<h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>这道题不难，感觉更加考验的是代码能力，因为分类讨论还是有许多难度。</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>区间 dp。当时我想复杂了，每次相当于直接删掉最小的数的一边然后直接枚举另一边还删了几个然后进行前缀和优化即可。[[区间dp]]</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>会发现对于一个人，我们可以知道如果他会自爆，那么时间就是他认为其他人自爆的最早时间 + 1。接着我们会发现一个人去想象另一个人的操作就是去掉一坨区间，因此对于一坨区间我们只需要找到最少的能让每个区间都包括的一些点，类似于区间种树。那么我们对于一个人，直接先前缀和和后缀和预处理出来（贪心，在区间最后放），然后左边区间的值和右边区间的值得和 + 1的最小就是答案。就可以做到严格 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="5.495ex" height="2.262ex" role="img" focusable="false" viewbox="0 -750 2429 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"/></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"/></g><g data-mml-node="mo" transform="translate(2040,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/></g></g></g></svg></mjx-container>。详情可以看我<a class="link" href="http://oi.cdshishi.net:9001/record/653cbec04d556106606679b7">代码 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。[[贪心]]</p>
+<h2 id="T4"><a href="#T4" class="headerlink" title="T4"></a>T4</h2><p>就没有人会啊。std 有14 K。就先放着吧。总是会会的。一直都是会的。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>开心，又到了周末。伤心，一周又结束了。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>dp</tag>
+        <tag>区间dp</tag>
+        <tag>贪心</tag>
       </tags>
   </entry>
 </search>
