@@ -2447,4 +2447,32 @@
         <tag>汉明距离</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年11月3日总结</title>
+    <url>/11/04/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>铛铛铛铛！一天又结束啦！早上做了一套练习赛，还是 USACO 的题目，恶心的是 T2 翻译太恶心了。话说怎么今天这么快进入了正题？不行，再水一下。今天晚上，也就是我正在写这段话的时候，我们的运动会正在举行闭幕式。差不多有一坤天吧，终于结束了。热闹的操场也将会归于沉寂。我好怀念清早来到学校操场上，跨过整个操场，没有人，有许多鸽子和麻雀在上面散步的情景。挺有趣的。哈哈。现在操场上人已经散了，刚刚测了模板，就是逆元，不难。都要慢慢飘落，沉淀下来了。哦对了，明天有个模拟赛诶，南外出的。虽然我并没有什么信心，但是我很有信心。运动会结束了，我们的集训还没结束。话说等到集训结束的那天会发生什么呢？我想什么都不会发生，因为没有必要。嘻嘻，有到了晚上。今天会打 vp 吗？我不确定。反正我肯定是要把 树的重心 那道题写了，不然很难受。</p>
+<p>好了，说回正题。今天早上练习赛。炸了。但是还好。也有教训。其中也有我不想打对拍的缘故。以后还是要打对拍，尽量打。没有什么感想。感觉好几次都是站在正解的门口瞅了一下，然后走到了隔壁的门里。说明我还是比较逊了哈哈，精度误差有几米，看来要缩小精度，不缺德（雾）。</p>
+<h1 id="上午"><a href="#上午" class="headerlink" title="上午"></a>上午</h1><p>上午的话，嗯，就那样，前面也说了，这里也就不细说了。嗯，确实。考得不是特别的理想，但是还好，挺好的。嘻嘻，可以吧。还是有一些经验的（不就是教训说好听一点吗，可恶）。</p>
+<h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>这道题可以三分也可以二分。我二分的和。但是挂了。因为下界要向上取整。可恶。[[二分答案]] [[三分答案]]</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>这道题，翻译立大功，导致我们都理解错题目了，想不出正解，暴力也炸掉了，GG。浪费我的生命呜呜呜呜呜。</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>显然每条边只会走一次，dfs 一下就完。[[dfs]]</p>
+<h2 id="T4"><a href="#T4" class="headerlink" title="T4"></a>T4</h2><p>dp。似乎不是很难？应该还是可以想到的。怎么说呢，就是很显然。也很有趣。反正这种题一眼就那样。（所以我为什么没有想出来？这么简单你怎么没有做出来？》》》）。[[dp]]</p>
+<h1 id="下午"><a href="#下午" class="headerlink" title="下午"></a>下午</h1><p>改题，然后今天有体育课！去打乒乓球了！好玩！</p>
+<h1 id="晚上"><a href="#晚上" class="headerlink" title="晚上"></a>晚上</h1><p>就是现在啦！教练让我们去学习猫树，那就学习完之后再去写树的重心！话说还没有放链接，那就勉为其难地放一个吧！<a class="link" href="http://oi.cdshishi.net:9001/contest/6543d2f74d55610660683757">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。还有那道猫树的题目：<a class="link" href="https://www.luogu.com.cn/problem/SP1043">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。顺便把树的重心也放了：<a class="link" href="https://www.luogu.com.cn/problem/P5666">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p>喜报！通过猫树模板！[[猫树]]</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>以后还是尽量别看我第一段吧……好尴尬。つ﹏⊂。发疯ing。(●’◡’●)，第一段纯属水字数，后面才是正文。话说这样的话……以后最后一段也尽量不看吧哈哈O(∩_∩)O，也是水字数的嘻嘻。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>dp</tag>
+        <tag>二分答案</tag>
+        <tag>dfs</tag>
+        <tag>CSP-S</tag>
+        <tag>USACO</tag>
+        <tag>三分答案</tag>
+        <tag>猫树</tag>
+      </tags>
+  </entry>
 </search>

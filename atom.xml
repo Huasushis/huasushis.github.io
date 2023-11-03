@@ -6,7 +6,7 @@
   <link href="https://blog.huasushis.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.huasushis.cn/"/>
-  <updated>2023-11-02T15:37:07.280Z</updated>
+  <updated>2023-11-03T15:01:18.228Z</updated>
   <id>https://blog.huasushis.cn/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023年11月3日总结</title>
+    <link href="https://blog.huasushis.cn/11/04/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/11/04/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <published>2023-11-04T02:53:41.000Z</published>
+    <updated>2023-11-03T15:01:18.228Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>铛铛铛铛！一天又结束啦！早上做了一套练习赛，还是 USACO 的题目，恶心的是 T2 翻译太恶心了。话说怎么今天这么快进入了正题？不行，再水一下。今天晚上，也就是我正在写这段话的时候，我们的运动会正在举行闭幕式。差不多有一坤天吧，终于结束了。热闹的操场也将会归于沉寂。我好怀念清早来到学校操场上，跨过整个操场，没有人，有许多鸽子和麻雀在上面散步的情景。挺有趣的。哈哈。现在操场上人已经散了，刚刚测了模板，就是逆元，不难。都要慢慢飘落，沉淀下来了。哦对了，明天有个模拟赛诶，南外出的。虽然我并没有什么信心，但是我很有信心。运动会结束了，我们的集训还没结束。话说等到集训结束的那天会发生什么呢？我想什么都不会发生，因为没有必要。嘻嘻，有到了晚上。今天会打 vp 吗？我不确定。反正我肯定是要把 树的重心 那道题写了，不然很难受。</p><p>好了，说回正题。今天早上练习赛。炸了。但是还好。也有教训。其中也有我不想打对拍的缘故。以后还是要打对拍，尽量打。没有什么感想。感觉好几次都是站在正解的门口瞅了一下，然后走到了隔壁的门里。说明我还是比较逊了哈哈，精度误差有几米，看来要缩小精度，不缺德（雾）。</p><h1 id="上午"><a href="#上午" class="headerlink" title="上午"></a>上午</h1><p>上午的话，嗯，就那样，前面也说了，这里也就不细说了。嗯，确实。考得不是特别的理想，但是还好，挺好的。嘻嘻，可以吧。还是有一些经验的（不就是教训说好听一点吗，可恶）。</p><h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>这道题可以三分也可以二分。我二分的和。但是挂了。因为下界要向上取整。可恶。[[二分答案]] [[三分答案]]</p><h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>这道题，翻译立大功，导致我们都理解错题目了，想不出正解，暴力也炸掉了，GG。浪费我的生命呜呜呜呜呜。</p><h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>显然每条边只会走一次，dfs 一下就完。[[dfs]]</p><h2 id="T4"><a href="#T4" class="headerlink" title="T4"></a>T4</h2><p>dp。似乎不是很难？应该还是可以想到的。怎么说呢，就是很显然。也很有趣。反正这种题一眼就那样。（所以我为什么没有想出来？这么简单你怎么没有做出来？》》》）。[[dp]]</p><h1 id="下午"><a href="#下午" class="headerlink" title="下午"></a>下午</h1><p>改题，然后今天有体育课！去打乒乓球了！好玩！</p><h1 id="晚上"><a href="#晚上" class="headerlink" title="晚上"></a>晚上</h1><p>就是现在啦！教练让我们去学习猫树，那就学习完之后再去写树的重心！话说还没有放链接，那就勉为其难地放一个吧！<a class="link" href="http://oi.cdshishi.net:9001/contest/6543d2f74d55610660683757">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。还有那道猫树的题目：<a class="link" href="https://www.luogu.com.cn/problem/SP1043">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。顺便把树的重心也放了：<a class="link" href="https://www.luogu.com.cn/problem/P5666">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p><p>喜报！通过猫树模板！[[猫树]]</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>以后还是尽量别看我第一段吧……好尴尬。つ﹏⊂。发疯ing。(●’◡’●)，第一段纯属水字数，后面才是正文。话说这样的话……以后最后一段也尽量不看吧哈哈O(∩_∩)O，也是水字数的嘻嘻。</p>]]></content>
+    
+    
+    <summary type="html">一周又结束了，嘿。还不错呢。又好容易打成有啊，好讨厌。今天运动会也结束了，依然是和我们没有什么太大的关系。有什么好说的呢？看看就行。</summary>
+    
+    
+    
+    <category term="总结" scheme="https://blog.huasushis.cn/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="dp" scheme="https://blog.huasushis.cn/tags/dp/"/>
+    
+    <category term="二分答案" scheme="https://blog.huasushis.cn/tags/%E4%BA%8C%E5%88%86%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="dfs" scheme="https://blog.huasushis.cn/tags/dfs/"/>
+    
+    <category term="CSP-S" scheme="https://blog.huasushis.cn/tags/CSP-S/"/>
+    
+    <category term="USACO" scheme="https://blog.huasushis.cn/tags/USACO/"/>
+    
+    <category term="三分答案" scheme="https://blog.huasushis.cn/tags/%E4%B8%89%E5%88%86%E7%AD%94%E6%A1%88/"/>
+    
+    <category term="猫树" scheme="https://blog.huasushis.cn/tags/%E7%8C%AB%E6%A0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>2023年11月2日总结</title>
@@ -526,27 +559,6 @@
     
     
     <category term="数学" scheme="https://blog.huasushis.cn/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2023年10月12日总结</title>
-    <link href="https://blog.huasushis.cn/10/13/2023/2023%E5%B9%B410%E6%9C%8812%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/10/13/2023/2023%E5%B9%B410%E6%9C%8812%E6%97%A5%E6%80%BB%E7%BB%93/</id>
-    <published>2023-10-13T02:40:02.000Z</published>
-    <updated>2023-10-12T14:48:09.046Z</updated>
-    
-    <content type="html"><![CDATA[<p>[[字符串]]</p><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p><a class="link" href="http://oi.cdshishi.net:9001/contest/6526934f118f6a063d1a1586">链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><p>今日是字符串专题，我觉得还挺有趣的。</p><p>不过字符串难的题目也确实很难。</p><p>没有看后缀自动机，等 CSP 考完吧。</p><blockquote><p>阿狸的打字机</p></blockquote><p>有些题还是很有趣的，有一道离线树状数组的题我硬生生写了个主席树，不过看题解发现离线没写好会被 hack，所以在线主席树 yyds！</p><h1 id="重点"><a href="#重点" class="headerlink" title="重点"></a>重点</h1><p>KMP，<del>自动 AC 机</del> AC 自动机，字符串 hash，另外可能还有 KMP 自动机。</p><p>字符串 hash 要注意，不然容易被 hack，或者被生日悖论搞。</p><p>一般要用双 hash 或者是 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.05ex;" xmlns="http://www.w3.org/2000/svg" width="4.448ex" height="1.557ex" role="img" focusable="false" viewbox="0 -666 1966 688"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mn"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/></g><g data-mml-node="mi" transform="translate(500,0)"><path data-c="1D452" d="M39 168Q39 225 58 272T107 350T174 402T244 433T307 442H310Q355 442 388 420T421 355Q421 265 310 237Q261 224 176 223Q139 223 138 221Q138 219 132 186T125 128Q125 81 146 54T209 26T302 45T394 111Q403 121 406 121Q410 121 419 112T429 98T420 82T390 55T344 24T281 -1T205 -11Q126 -11 83 42T39 168ZM373 353Q367 405 305 405Q272 405 244 391T199 357T170 316T154 280T149 261Q149 260 169 260Q282 260 327 284T373 353Z"/></g><g data-mml-node="mn" transform="translate(966,0)"><path data-c="31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"/><path data-c="38" d="M70 417T70 494T124 618T248 666Q319 666 374 624T429 515Q429 485 418 459T392 417T361 389T335 371T324 363L338 354Q352 344 366 334T382 323Q457 264 457 174Q457 95 399 37T249 -22Q159 -22 101 29T43 155Q43 263 172 335L154 348Q133 361 127 368Q70 417 70 494ZM286 386L292 390Q298 394 301 396T311 403T323 413T334 425T345 438T355 454T364 471T369 491T371 513Q371 556 342 586T275 624Q268 625 242 625Q201 625 165 599T128 534Q128 511 141 492T167 463T217 431Q224 426 228 424L286 386ZM250 21Q308 21 350 55T392 137Q392 154 387 169T375 194T353 216T330 234T301 253T274 270Q260 279 244 289T218 306L210 311Q204 311 181 294T133 239T107 157Q107 98 150 60T250 21Z" transform="translate(500,0)"/></g></g></g></svg></mjx-container> 级别的质数来 hash，虽然我没有明白为什么一定要是质数。</p><hr><p>P.S. AC 自动机我已经很熟悉啦，要是后缀自动机和后缀数组也能像这样就好哩。</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>今天练习赛第十题基本上是一遍过，错误是因为不知道主席树要开多大空间，在这里记录一下，<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.466ex;" xmlns="http://www.w3.org/2000/svg" width="11.113ex" height="2.036ex" role="img" focusable="false" viewbox="0 -694 4911.8 900"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"/></g><g data-mml-node="mo" transform="translate(822.2,0)"><path data-c="2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"/></g><g data-mml-node="mi" transform="translate(1822.4,0)"><path data-c="1D45A" d="M21 287Q22 293 24 303T36 341T56 388T88 425T132 442T175 435T205 417T221 395T229 376L231 369Q231 367 232 367L243 378Q303 442 384 442Q401 442 415 440T441 433T460 423T475 411T485 398T493 385T497 373T500 364T502 357L510 367Q573 442 659 442Q713 442 746 415T780 336Q780 285 742 178T704 50Q705 36 709 31T724 26Q752 26 776 56T815 138Q818 149 821 151T837 153Q857 153 857 145Q857 144 853 130Q845 101 831 73T785 17T716 -10Q669 -10 648 17T627 73Q627 92 663 193T700 345Q700 404 656 404H651Q565 404 506 303L499 291L466 157Q433 26 428 16Q415 -11 385 -11Q372 -11 364 -4T353 8T350 18Q350 29 384 161L420 307Q423 322 423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 181Q151 335 151 342Q154 357 154 369Q154 405 129 405Q107 405 92 377T69 316T57 280Q55 278 41 278H27Q21 284 21 287Z"/></g><g data-mml-node="mi" transform="translate(2867.1,0)"><path data-c="6C" d="M42 46H56Q95 46 103 60V68Q103 77 103 91T103 124T104 167T104 217T104 272T104 329Q104 366 104 407T104 482T104 542T103 586T103 603Q100 622 89 628T44 637H26V660Q26 683 28 683L38 684Q48 685 67 686T104 688Q121 689 141 690T171 693T182 694H185V379Q185 62 186 60Q190 52 198 49Q219 46 247 46H263V0H255L232 1Q209 2 183 2T145 3T107 3T57 1L34 0H26V46H42Z"/><path data-c="6F" d="M28 214Q28 309 93 378T250 448Q340 448 405 380T471 215Q471 120 407 55T250 -10Q153 -10 91 57T28 214ZM250 30Q372 30 372 193V225V250Q372 272 371 288T364 326T348 362T317 390T268 410Q263 411 252 411Q222 411 195 399Q152 377 139 338T126 246V226Q126 130 145 91Q177 30 250 30Z" transform="translate(278,0)"/><path data-c="67" d="M329 409Q373 453 429 453Q459 453 472 434T485 396Q485 382 476 371T449 360Q416 360 412 390Q410 404 415 411Q415 412 416 414V415Q388 412 363 393Q355 388 355 386Q355 385 359 381T368 369T379 351T388 325T392 292Q392 230 343 187T222 143Q172 143 123 171Q112 153 112 133Q112 98 138 81Q147 75 155 75T227 73Q311 72 335 67Q396 58 431 26Q470 -13 470 -72Q470 -139 392 -175Q332 -206 250 -206Q167 -206 107 -175Q29 -140 29 -75Q29 -39 50 -15T92 18L103 24Q67 55 67 108Q67 155 96 193Q52 237 52 292Q52 355 102 398T223 442Q274 442 318 416L329 409ZM299 343Q294 371 273 387T221 404Q192 404 171 388T145 343Q142 326 142 292Q142 248 149 227T179 192Q196 182 222 182Q244 182 260 189T283 207T294 227T299 242Q302 258 302 292T299 343ZM403 -75Q403 -50 389 -34T348 -11T299 -2T245 0H218Q151 0 138 -6Q118 -15 107 -34T95 -74Q95 -84 101 -97T122 -127T170 -155T250 -167Q319 -167 361 -139T403 -75Z" transform="translate(778,0)"/></g><g data-mml-node="mo" transform="translate(4145.1,0)"><path data-c="2061" d=""/></g><g data-mml-node="mi" transform="translate(4311.8,0)"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"/></g></g></g></svg></mjx-container> ，<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.986ex" height="1.025ex" role="img" focusable="false" viewbox="0 -442 878 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45A" d="M21 287Q22 293 24 303T36 341T56 388T88 425T132 442T175 435T205 417T221 395T229 376L231 369Q231 367 232 367L243 378Q303 442 384 442Q401 442 415 440T441 433T460 423T475 411T485 398T493 385T497 373T500 364T502 357L510 367Q573 442 659 442Q713 442 746 415T780 336Q780 285 742 178T704 50Q705 36 709 31T724 26Q752 26 776 56T815 138Q818 149 821 151T837 153Q857 153 857 145Q857 144 853 130Q845 101 831 73T785 17T716 -10Q669 -10 648 17T627 73Q627 92 663 193T700 345Q700 404 656 404H651Q565 404 506 303L499 291L466 157Q433 26 428 16Q415 -11 385 -11Q372 -11 364 -4T353 8T350 18Q350 29 384 161L420 307Q423 322 423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 181Q151 335 151 342Q154 357 154 369Q154 405 129 405Q107 405 92 377T69 316T57 280Q55 278 41 278H27Q21 284 21 287Z"/></g></g></g></svg></mjx-container> 是询问次数，其中前面的 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.357ex" height="1.025ex" role="img" focusable="false" viewbox="0 -442 600 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45B" d="M21 287Q22 293 24 303T36 341T56 388T89 425T135 442Q171 442 195 424T225 390T231 369Q231 367 232 367L243 378Q304 442 382 442Q436 442 469 415T503 336T465 179T427 52Q427 26 444 26Q450 26 453 27Q482 32 505 65T540 145Q542 153 560 153Q580 153 580 145Q580 144 576 130Q568 101 554 73T508 17T439 -10Q392 -10 371 17T350 73Q350 92 386 193T423 345Q423 404 379 404H374Q288 404 229 303L222 291L189 157Q156 26 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 112 180T152 343Q153 348 153 366Q153 405 129 405Q91 405 66 305Q60 285 60 284Q58 278 41 278H27Q21 284 21 287Z"/></g></g></g></svg></mjx-container> 开四倍空间，后面一坨单点修改一倍，区间两倍。（如果错了欢迎指正，<del>话说没有评论区怎么办啊</del>）</p>]]></content>
-    
-    
-    <summary type="html">今日份的字符串，字符串不太难的题还是比较容易的</summary>
-    
-    
-    
-    <category term="总结" scheme="https://blog.huasushis.cn/categories/%E6%80%BB%E7%BB%93/"/>
-    
-    
-    <category term="字符串" scheme="https://blog.huasushis.cn/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
     
   </entry>
   
