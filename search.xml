@@ -2497,4 +2497,26 @@
         <tag>最小路径覆盖</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年11月7日总结</title>
+    <url>/11/08/2023/2023%E5%B9%B411%E6%9C%887%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>今天早上是练习赛。不是很难。今天没有什么印象深刻的事情。确实没有。大家都很正常，像往常一样。大家都很安静，很爱唱歌。似乎与往常没有什么不同。哦对了，昨天开始感觉变冷了，主要是早上，还有这几天天气都很晴朗，白天都很热，教室里也很热。突然发现一些事情，一些事情，哇酷哇酷。</p>
+<p>话不多说，写哈。</p>
+<h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><p>这里是题解，写这段话的目的主要是为了防止标题之间空的太难看。写在这里乌拉乌拉。</p>
+<h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>正着难，那就倒着来，[[并查集]]，哈，完了。</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>也没有什么好说的。Trie 树上 dfs，顺便记录一下当前的图，保证每一次 dfs 都是个 dag 就行。用个 vector 再压个位就搞定。[[Trie 树]] [[传递闭包]]</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>考场上思路错了没想出来。就是分层图。你也可以想象成状态机。发现两个边 double 或变成 0。就可以用2个 bit 记录一下有没有过就行。转移就或一下。这样就不用分一大坨类来跑最短路了。[[分层图]]</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>其实我还没有写下午干了什么，其实也没有做什么。哦对，今天我去学习了一下 lambda。其实之前就会，今天主要是去看了一下 Y 组合子还有柯里化。显然，没有看懂，好像学了也没有什么卵用……。悲伤。继续去刷 noip 真题了。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>并查集</tag>
+        <tag>Trie树</tag>
+        <tag>dfs</tag>
+        <tag>传递闭包</tag>
+        <tag>分层图</tag>
+      </tags>
+  </entry>
 </search>
