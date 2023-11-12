@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Huasushis的博客</title>
   
-  
+  <subtitle>混氏新子的博客</subtitle>
   <link href="https://blog.huasushis.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.huasushis.cn/"/>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>USACO作题记录1</title>
-    <link href="https://blog.huasushis.cn/11/11/2023/USACO%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/"/>
-    <id>https://blog.huasushis.cn/11/11/2023/USACO%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/</id>
+    <link href="https://blog.huasushis.cn/2023/USACO%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/"/>
+    <id>https://blog.huasushis.cn/2023/USACO%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/</id>
     <published>2023-11-11T03:40:52.000Z</published>
     <updated>2023-11-10T15:04:29.927Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>2023年11月10日总结</title>
-    <link href="https://blog.huasushis.cn/11/11/2023/2023%E5%B9%B411%E6%9C%8810%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/11/2023/2023%E5%B9%B411%E6%9C%8810%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%8810%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%8810%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-11T03:37:33.000Z</published>
     <updated>2023-11-10T14:50:47.197Z</updated>
     
@@ -64,8 +64,8 @@
   
   <entry>
     <title>2023年11月9日总结</title>
-    <link href="https://blog.huasushis.cn/11/10/2023/2023%E5%B9%B411%E6%9C%889%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/10/2023/2023%E5%B9%B411%E6%9C%889%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%889%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%889%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-10T03:54:36.000Z</published>
     <updated>2023-11-09T15:05:30.698Z</updated>
     
@@ -97,8 +97,8 @@
   
   <entry>
     <title>2023年11月8日模拟赛</title>
-    <link href="https://blog.huasushis.cn/11/09/2023/2023%E5%B9%B411%E6%9C%888%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/11/09/2023/2023%E5%B9%B411%E6%9C%888%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%888%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%888%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-11-09T03:48:55.000Z</published>
     <updated>2023-11-08T15:01:35.487Z</updated>
     
@@ -126,8 +126,8 @@
   
   <entry>
     <title>2023年11月7日总结</title>
-    <link href="https://blog.huasushis.cn/11/08/2023/2023%E5%B9%B411%E6%9C%887%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/08/2023/2023%E5%B9%B411%E6%9C%887%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%887%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%887%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-08T03:47:52.000Z</published>
     <updated>2023-11-07T14:51:53.363Z</updated>
     
@@ -155,8 +155,8 @@
   
   <entry>
     <title>2023年11月6日总结</title>
-    <link href="https://blog.huasushis.cn/11/07/2023/2023%E5%B9%B411%E6%9C%886%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/07/2023/2023%E5%B9%B411%E6%9C%886%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%886%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%886%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-07T04:02:29.000Z</published>
     <updated>2023-11-06T15:04:28.097Z</updated>
     
@@ -184,8 +184,8 @@
   
   <entry>
     <title>2023年11月3日总结</title>
-    <link href="https://blog.huasushis.cn/11/04/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/04/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%883%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-04T02:53:41.000Z</published>
     <updated>2023-11-03T15:01:18.228Z</updated>
     
@@ -217,8 +217,8 @@
   
   <entry>
     <title>2023年11月2日总结</title>
-    <link href="https://blog.huasushis.cn/11/03/2023/2023%E5%B9%B411%E6%9C%882%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/03/2023/2023%E5%B9%B411%E6%9C%882%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%882%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%882%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-03T02:50:20.000Z</published>
     <updated>2023-11-02T15:37:07.280Z</updated>
     
@@ -248,8 +248,8 @@
   
   <entry>
     <title>2023年11月1日模拟赛</title>
-    <link href="https://blog.huasushis.cn/11/02/2023/2023%E5%B9%B411%E6%9C%881%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/11/02/2023/2023%E5%B9%B411%E6%9C%881%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%881%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%881%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-11-02T02:50:26.000Z</published>
     <updated>2023-11-01T15:31:23.629Z</updated>
     
@@ -273,8 +273,8 @@
   
   <entry>
     <title>2023年10月31日总结</title>
-    <link href="https://blog.huasushis.cn/11/01/2023/2023%E5%B9%B410%E6%9C%8831%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/11/01/2023/2023%E5%B9%B410%E6%9C%8831%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8831%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8831%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-11-01T02:48:15.000Z</published>
     <updated>2023-10-31T14:57:00.668Z</updated>
     
@@ -296,8 +296,8 @@
   
   <entry>
     <title>2023年10月30日模拟赛</title>
-    <link href="https://blog.huasushis.cn/10/31/2023/2023%E5%B9%B410%E6%9C%8830%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/10/31/2023/2023%E5%B9%B410%E6%9C%8830%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8830%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8830%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-10-31T02:54:35.000Z</published>
     <updated>2023-10-30T14:58:35.422Z</updated>
     
@@ -327,8 +327,8 @@
   
   <entry>
     <title>2023年10月28日模拟赛</title>
-    <link href="https://blog.huasushis.cn/10/29/2023/2023%E5%B9%B410%E6%9C%8828%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/10/29/2023/2023%E5%B9%B410%E6%9C%8828%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8828%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8828%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-10-28T21:27:46.000Z</published>
     <updated>2023-10-28T09:43:27.856Z</updated>
     
@@ -352,8 +352,8 @@
   
   <entry>
     <title>2023年10月27日练习赛</title>
-    <link href="https://blog.huasushis.cn/10/28/2023/2023%E5%B9%B410%E6%9C%8827%E6%97%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/10/28/2023/2023%E5%B9%B410%E6%9C%8827%E6%97%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8827%E6%97%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8827%E6%97%A5%E7%BB%83%E4%B9%A0%E8%B5%9B/</id>
     <published>2023-10-28T02:50:57.000Z</published>
     <updated>2023-10-27T15:05:29.083Z</updated>
     
@@ -387,8 +387,8 @@
   
   <entry>
     <title>2023年10月26日总结</title>
-    <link href="https://blog.huasushis.cn/10/27/2023/2023%E5%B9%B410%E6%9C%8826%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/10/27/2023/2023%E5%B9%B410%E6%9C%8826%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8826%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8826%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-10-27T02:36:56.000Z</published>
     <updated>2023-10-26T14:46:37.176Z</updated>
     
@@ -414,8 +414,8 @@
   
   <entry>
     <title>2023年10月25模拟赛</title>
-    <link href="https://blog.huasushis.cn/10/26/2023/2023%E5%B9%B410%E6%9C%8825%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/10/26/2023/2023%E5%B9%B410%E6%9C%8825%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8825%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8825%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-10-26T02:53:32.000Z</published>
     <updated>2023-10-25T14:56:28.175Z</updated>
     
@@ -441,8 +441,8 @@
   
   <entry>
     <title>Codeforces 作题记录1</title>
-    <link href="https://blog.huasushis.cn/10/25/2023/Codeforces%20%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/"/>
-    <id>https://blog.huasushis.cn/10/25/2023/Codeforces%20%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/</id>
+    <link href="https://blog.huasushis.cn/2023/Codeforces%20%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/"/>
+    <id>https://blog.huasushis.cn/2023/Codeforces%20%E4%BD%9C%E9%A2%98%E8%AE%B0%E5%BD%951/</id>
     <published>2023-10-25T02:46:27.000Z</published>
     <updated>2023-11-02T15:39:57.967Z</updated>
     
@@ -464,8 +464,8 @@
   
   <entry>
     <title>2023年10月24日总结</title>
-    <link href="https://blog.huasushis.cn/10/25/2023/2023%E5%B9%B410%E6%9C%8824%E6%97%A5%E6%80%BB%E7%BB%93/"/>
-    <id>https://blog.huasushis.cn/10/25/2023/2023%E5%B9%B410%E6%9C%8824%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8824%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8824%E6%97%A5%E6%80%BB%E7%BB%93/</id>
     <published>2023-10-25T02:43:25.000Z</published>
     <updated>2023-10-24T14:45:36.559Z</updated>
     
@@ -493,8 +493,8 @@
   
   <entry>
     <title>2023年10月23日模拟赛</title>
-    <link href="https://blog.huasushis.cn/10/24/2023/2023%E5%B9%B410%E6%9C%8823%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/10/24/2023/2023%E5%B9%B410%E6%9C%8823%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8823%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8823%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-10-24T02:48:30.000Z</published>
     <updated>2023-10-23T15:10:15.262Z</updated>
     
@@ -516,8 +516,8 @@
   
   <entry>
     <title>2023 CSP-S 游记：勇往直前</title>
-    <link href="https://blog.huasushis.cn/10/22/2023/2023%20CSP-S%20%E6%B8%B8%E8%AE%B0%EF%BC%9A%E5%8B%87%E5%BE%80%E7%9B%B4%E5%89%8D/"/>
-    <id>https://blog.huasushis.cn/10/22/2023/2023%20CSP-S%20%E6%B8%B8%E8%AE%B0%EF%BC%9A%E5%8B%87%E5%BE%80%E7%9B%B4%E5%89%8D/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%20CSP-S%20%E6%B8%B8%E8%AE%B0%EF%BC%9A%E5%8B%87%E5%BE%80%E7%9B%B4%E5%89%8D/"/>
+    <id>https://blog.huasushis.cn/2023/2023%20CSP-S%20%E6%B8%B8%E8%AE%B0%EF%BC%9A%E5%8B%87%E5%BE%80%E7%9B%B4%E5%89%8D/</id>
     <published>2023-10-22T15:29:46.000Z</published>
     <updated>2023-10-22T06:20:58.534Z</updated>
     
@@ -537,8 +537,8 @@
   
   <entry>
     <title>2023年10月19日模拟赛</title>
-    <link href="https://blog.huasushis.cn/10/20/2023/2023%E5%B9%B410%E6%9C%8819%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/10/20/2023/2023%E5%B9%B410%E6%9C%8819%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8819%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B410%E6%9C%8819%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
     <published>2023-10-20T02:27:57.000Z</published>
     <updated>2023-10-19T15:14:05.905Z</updated>
     
