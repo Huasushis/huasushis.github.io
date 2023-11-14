@@ -2670,4 +2670,35 @@
         <tag>贪心</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年11月14日模拟赛</title>
+    <url>/2023/2023%E5%B9%B411%E6%9C%8814%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>今天考得好呀。我发现我博客错别字有一点点多，以后要改正。不然看起来很难受。今天这个题是 SXYZ 的，看起来很好，很善良。切掉了前两道题，自我感觉 T2 简单于 T1。</p>
+<h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><p>这里是题解，虽然很简洁，但是很有价值！如果你不懂的话没有关系！因为我写这个地方的目的也不是为了讲懂你的。如果你懂了，那么你很幸运！恭喜你！如果你不懂的话！你可以看题解！如果你看懂了那么你就不用看我的了，如果你看不懂你看我的可能还是看不懂。放一下比赛链接：<a class="link" href="http://oi.cdshishi.net:9001/contest/6552b09a87e959064bad8b13">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<h1 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h1><p><a href="https://codeforces.com/gym/102978/problem/I"><strong>【Codeforces-Gym102978-Problem - I 】</strong></a></p>
+<p>这道题很有趣，考验思维能力。很多看似可以一眼的地方其实很难一眼。简单讲解一下思维过程，因为我还要写 T4。首先看题，容易发现对于一个排列我们求那个串，我们从小到大枚举字符，如果这个后缀的长度小于要的，那肯定全部放，否则递归进去。然后这样想不出来，但是可以引导我们想出正解。后来我想到最小子序列不断变长应该会包含这个更小的，于是我想到了加数进去，然后一直保证这个更小的是更小的。后来写了写了写发现了问题，但是想了想发现这个问题砍掉就可以。正解就变成了不断加数进去让最小的还是最小的，而不是每次更长的最小的是最小的，这和那个没有关系。通过最后一个样例我们可以知道第一个逆序的相邻对之后就不能插东西了，显然。就这样，结束了！</p>
+<p>P.S. 还是写多了呜呜。</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p><strong>题目来源：</strong> <a href="https://www.luogu.com.cn/problem/P8227"><strong>【Luogu P8227 「Wdoi-5」建立与摧毁的结界】</strong></a></p>
+<p>感觉题解有点复杂。其实我看到这种题一眼括号树。就会发现任何括号序列都可以转换成括号排排坐然后分组再进去的。然后就可以求得一个子树到达同一层要多少步。还会发现两个串如果有相同的一部分（也不叫相同，反正你能理解），对应树上两个大小相同，对应的 dfs 序位置也相同的子树，几次 dfs 就能搞定，不难。[[dfs]]</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>这道题也很有趣。总感觉很熟悉，但是不知道在哪里见到过。可以发现对于一个区间找到最大值（定义为值最大，编号也要最大），对于每一个位置处理一个 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="0.674ex" height="1.595ex" role="img" focusable="false" viewbox="0 -694 298 705"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D459" d="M117 59Q117 26 142 26Q179 26 205 131Q211 151 215 152Q217 153 225 153H229Q238 153 241 153T246 151T248 144Q247 138 245 128T234 90T214 43T183 6T137 -11Q101 -11 70 11T38 85Q38 97 39 102L104 360Q167 615 167 623Q167 626 166 628T162 632T157 634T149 635T141 636T132 637T122 637Q112 637 109 637T101 638T95 641T94 647Q94 649 96 661Q101 680 107 682T179 688Q194 689 213 690T243 693T254 694Q266 694 266 686Q266 675 193 386T118 83Q118 81 118 75T117 65V59Z"/></g></g></g></svg></mjx-container> 和 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.025ex;" xmlns="http://www.w3.org/2000/svg" width="1.02ex" height="1.025ex" role="img" focusable="false" viewbox="0 -442 451 453"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D45F" d="M21 287Q22 290 23 295T28 317T38 348T53 381T73 411T99 433T132 442Q161 442 183 430T214 408T225 388Q227 382 228 382T236 389Q284 441 347 441H350Q398 441 422 400Q430 381 430 363Q430 333 417 315T391 292T366 288Q346 288 334 299T322 328Q322 376 378 392Q356 405 342 405Q286 405 239 331Q229 315 224 298T190 165Q156 25 151 16Q138 -11 108 -11Q95 -11 87 -5T76 7T74 17Q74 30 114 189T154 366Q154 405 128 405Q107 405 92 377T68 316T57 280Q55 278 41 278H27Q21 284 21 287Z"/></g></g></g></svg></mjx-container>，定义为左边和右边在比这个位置大且能互相帮助的最近的一个。然后枚举右端点就能线段树维护了。细节较多。但是数据较水。[[线段树]]</p>
+<h2 id="T4"><a href="#T4" class="headerlink" title="T4"></a>T4</h2><p>题目来源：<a class="link" href="https://codeforces.com/problemset/problem/1416/E">【Codeforces-Problem-1416E】 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>还没做出来。看起来很有趣。数据结构优化 dp 的题目 [[dp]] [[数据结构]]</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>后记写什么呢？大家都很友善，也很可爱 (●’◡’●)。老师和同学都是好人。</p>
+<h1 id="时事点评"><a href="#时事点评" class="headerlink" title="时事点评"></a>时事点评</h1><blockquote>
+<p>纽约联合国总部13日降半旗，为本轮巴以冲突中遇难的101名工作人员志哀。<br>在经济及社会理事会会议厅，联合国秘书长古特雷斯主持默哀仪式，为巴以冲突中的遇难者默哀一分钟。他站在联合国常务副秘书长阿明娜和第78届联大主席弗朗西斯的中间，与来自世界各地赴纽约开会的联合国驻地协调员等一起，悼念遇难的同事。<br>古特雷斯在社交媒体上发文说，“今天，联合国大家庭为在加沙遇难的同事默哀”。他表示，截至目前已有超过100名联合国工作人员丧生，“这是联合国援助人员在如此短的时间内在冲突中丧生人数最多的一次”。<br>根据联合国近东巴勒斯坦难民救济和工程处发布的数据，自本轮巴以冲突爆发以来，已有101名联合国工作人员在加沙地带丧生。</p>
+</blockquote>
+<p>就不点评了，百度上面抄的。</p>
+<p>还有看到有人说北航把原神和崩铁的 host 给 ban 了哈哈，好像是真的看起来。可怜可怜北航的同志们嘻嘻(●’◡’●)。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>dp</tag>
+        <tag>线段树</tag>
+        <tag>树</tag>
+        <tag>数据结构</tag>
+        <tag>思维</tag>
+      </tags>
+  </entry>
 </search>
