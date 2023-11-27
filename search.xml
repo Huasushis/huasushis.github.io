@@ -3000,4 +3000,51 @@
         <tag>noip</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年11月27日总结</title>
+    <url>/2023/2023%E5%B9%B411%E6%9C%8827%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>时隔一周，我又回到了这里。我的文化课啊……呜呜呜呜。不管了，加油！</p>
+<p>今天是复习计算几何，也就那几个点。闭包，半平面交，旋转卡壳，最近点对等。最近点对我看那个期望 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="5.495ex" height="2.262ex" role="img" focusable="false" viewbox="0 -750 2429 1000"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><path data-c="1D442" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"/></g><g data-mml-node="mo" transform="translate(763,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/></g><g data-mml-node="mi" transform="translate(1152,0)"><path data-c="1D441" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"/></g><g data-mml-node="mo" transform="translate(2040,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/></g></g></g></svg></mjx-container> 的做法去做加强加强版，我要吐了，一直 T。我最后都用上手写 hash 和 unordered_map 了，还是只有140。服了。K-D Tree 我也忘了，可恶。</p>
+<p>P.S. 归并过了。期望线性过啦！</p>
+<p>省选加油！</p>
+<h1 id="计算几何题单"><a href="#计算几何题单" class="headerlink" title="计算几何题单"></a>计算几何题单</h1><h3 id="计算几何省选真题-洛谷推荐题目-基础题"><a href="#计算几何省选真题-洛谷推荐题目-基础题" class="headerlink" title="计算几何省选真题-洛谷推荐题目-基础题"></a><strong>计算几何省选真题-洛谷推荐题目-基础题</strong></h3><ul>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2333">[SCOI2006] 一孔之见 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4166">[SCOI2007] 最大土地面积 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2571">[SCOI2010] 传送带 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4196">[CQOI2006] 凸多边形 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4406">[CQOI2005] 三角形面积并 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2313">[HNOI2005] 汤姆的游戏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2533">[AHOI2012] 信号塔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<h3 id="计算几何省选真题-洛谷推荐题目-中档题"><a href="#计算几何省选真题-洛谷推荐题目-中档题" class="headerlink" title="计算几何省选真题-洛谷推荐题目-中档题"></a><strong>计算几何省选真题-洛谷推荐题目-中档题</strong></h3><ul>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4273">[NOI2004] 降雨量 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3219">[HNOI2012] 三角形覆盖问题 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3194">[HNOI2008] 水平可见直线 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2287">[HNOI2004] 最佳包裹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2588">[ZJOI2008] Risk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P2600">[ZJOI2008] 瞭望塔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3217">[HNOI2011] 数矩形 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4048">[JSOI2010] 冷冻波 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3829">[SHOI2012] 信用卡凸包 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3187">[HNOI2007] 最小矩形覆盖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3256">[JLOI2013] 赛车 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<h3 id="计算几何省选真题-洛谷推荐题目-难题"><a href="#计算几何省选真题-洛谷推荐题目-难题" class="headerlink" title="计算几何省选真题-洛谷推荐题目-难题"></a><strong>计算几何省选真题-洛谷推荐题目-难题</strong></h3><ul>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4250">[SCOI2015] 小凸想跑步 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3260">[JLOI2014] 镜面通道 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P3297"> [SDOI2013] 逃考 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/solution/P4073">[WC2013] 平面图 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link" href="https://www.luogu.com.cn/problem/P4557">[JSOI2018] 战争 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ul>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>又开始拉！</p>
+<p>AI：</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">算法大师舞长空，闭包半交旋转卡。</span><br><span class="line">K-D Tree遗忘久，省选加油待重头。</span><br><span class="line">信息竞赛路漫漫，升级大师不畏难！</span><br><span class="line">妙笔生花谱新篇，展翅高飞仙班行。</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>计算几何</tag>
+      </tags>
+  </entry>
 </search>
