@@ -6,7 +6,7 @@
   <link href="https://blog.huasushis.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.huasushis.cn/"/>
-  <updated>2023-11-29T15:10:39.719Z</updated>
+  <updated>2023-11-30T15:35:47.617Z</updated>
   <id>https://blog.huasushis.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023年11月30日总结</title>
+    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%8830%E6%97%A5%E6%80%BB%E7%BB%93/"/>
+    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%8830%E6%97%A5%E6%80%BB%E7%BB%93/</id>
+    <published>2023-11-30T15:33:48.000Z</published>
+    <updated>2023-11-30T15:35:47.617Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>11月又要结束了啊。突然发现。要冬天了。窗外是似水的蓝色。今天是高级图论，就照着 Alex-Wei 的那个博客做题吧，懒得自己搞了。嘻嘻。<a class="link" href="https://www.cnblogs.com/alex-wei/p/high_level_graph_theory.html">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p><h2 id="同余最短路"><a href="#同余最短路" class="headerlink" title="[[同余最短路]]"></a>[[同余最短路]]</h2><p>非常有趣的知识点。</p><ul><li><h3 id="P2371-国家集训队-墨墨的等式"><a href="#P2371-国家集训队-墨墨的等式" class="headerlink" title="P2371 [国家集训队] 墨墨的等式"></a><a class="link" href="https://www.luogu.com.cn/problem/P2371">P2371 [国家集训队] 墨墨的等式 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li><li><h3 id="AT3621-ARC084B-Small-Multiple"><a href="#AT3621-ARC084B-Small-Multiple" class="headerlink" title="AT3621 [ARC084B] Small Multiple"></a><a class="link" href="https://www.luogu.com.cn/problem/AT3621">AT3621 [ARC084B] Small Multiple <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li></ul><h2 id="环计数问题"><a href="#环计数问题" class="headerlink" title="环计数问题"></a>环计数问题</h2><p>神奇小技巧。</p><ul><li><h3 id="无向图三元环计数"><a href="#无向图三元环计数" class="headerlink" title="无向图三元环计数"></a><a class="link" href="https://www.luogu.com.cn/problem/P1989">无向图三元环计数 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li><li><h3 id="无向图四元环计数"><a href="#无向图四元环计数" class="headerlink" title="无向图四元环计数"></a><a class="link" href="https://loj.ac/p/191">无向图四元环计数 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li></ul><h2 id="KM-算法？"><a href="#KM-算法？" class="headerlink" title="KM 算法？"></a>KM 算法？</h2><p>什么 KM 算法？难道我大费用流还搞不掉你？狗都不学！</p><p>P.S. 我连狗都不如。</p><ul><li><h3 id="【模板】二分图最大权完美匹配"><a href="#【模板】二分图最大权完美匹配" class="headerlink" title="【模板】二分图最大权完美匹配"></a><a class="link" href="https://www.luogu.com.cn/problem/P6577">【模板】二分图最大权完美匹配 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li><li><h3 id="二分图最大权匹配"><a href="#二分图最大权匹配" class="headerlink" title="二分图最大权匹配"></a><a class="link" href="https://uoj.ac/problem/80">二分图最大权匹配 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3><a class="link" href="https://uoj.ac/submission/666384">提交记录 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li><li><h3 id="整数规划"><a href="#整数规划" class="headerlink" title="整数规划"></a><a class="link" href="https://acm.hdu.edu.cn/showproblem.php?pid=6346">整数规划 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li></ul><h2 id="网络流"><a href="#网络流" class="headerlink" title="[[网络流]]"></a>[[网络流]]</h2><p><a class="link" href="https://oi-wiki.org/graph/flow/bound/">上下界网络流 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p><ul><li><h3 id="575-【ULR-1】光伏元件"><a href="#575-【ULR-1】光伏元件" class="headerlink" title="#575. 【ULR #1】光伏元件"></a><a class="link" href="https://uoj.ac/problem/575">#575. 【ULR #1】光伏元件 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h3></li></ul><p>有意思的一道题目。</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>今天时间有一点紧张，就不写了。</p><p>晚安玛卡巴卡！</p><p>AI：</p><div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">同余最短路径寻，环计问题来挑战。</span><br><span class="line">KM算法不懂问，网络流中藏妙招。</span><br></pre></td></tr></table></figure></div>]]></content>
+    
+    
+    <summary type="html">AI：本篇博客主要介绍了高级图论的相关知识点，包括同余最短路、环计数问题以及KM算法等。作者提到了一些具体的题目和解决方案，并表示对网络流问题很感兴趣。整篇博客展现了作者在信息学竞赛方面的扎实功底和积极向上的态度。</summary>
+    
+    
+    
+    <category term="总结" scheme="https://blog.huasushis.cn/categories/%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="网络流" scheme="https://blog.huasushis.cn/tags/%E7%BD%91%E7%BB%9C%E6%B5%81/"/>
+    
+    <category term="同余最短路" scheme="https://blog.huasushis.cn/tags/%E5%90%8C%E4%BD%99%E6%9C%80%E7%9F%AD%E8%B7%AF/"/>
+    
+    <category term="图论" scheme="https://blog.huasushis.cn/tags/%E5%9B%BE%E8%AE%BA/"/>
+    
+    <category term="环计数问题" scheme="https://blog.huasushis.cn/tags/%E7%8E%AF%E8%AE%A1%E6%95%B0%E9%97%AE%E9%A2%98/"/>
+    
+    <category term="KM算法" scheme="https://blog.huasushis.cn/tags/KM%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>2023年11月29日模拟赛</title>
@@ -530,31 +559,6 @@
     <category term="USACO" scheme="https://blog.huasushis.cn/tags/USACO/"/>
     
     <category term="汉明距离" scheme="https://blog.huasushis.cn/tags/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2023年11月1日模拟赛</title>
-    <link href="https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%881%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/"/>
-    <id>https://blog.huasushis.cn/2023/2023%E5%B9%B411%E6%9C%881%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</id>
-    <published>2023-11-01T14:50:26.000Z</published>
-    <updated>2023-11-01T15:31:23.629Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>今天是 11 月的第一天！纪念纪念！这是我在地球上的第 5501 天！开心～。今天一不小心没有考好，反省反省反省。首先是 T1 爆零了，原因：不太清楚。主要是知道正解之后就明白了，但是考试的时候还是要多多揣摩出题人的心理。其实的话，emm，中间阿，算了，就这样。然后第二题，我本以为 nq 能过的。害，还是要想清楚然后测试才行。还有的话……<strong>要多想</strong>。其实的话，T3 式子的话也并不是很难，要静下心来思考，不要因为前两道题造成的压力而不愿意去思考后面两道题。其实的话，也可能是因为前两道题耗费比较多的精力，还有就是可能昨天晚上睡得太晚了，要早一点睡觉才行。还是的话……就那样吧，不要害怕。</p><p>哦对，还有，今天感觉都是考思维的题目，标签都不好贴呢（伤心）。但是没有关系！思维也能成为 tags！</p><h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><p>这里来讲题解。emm，其实并不是很想写什么东西的。但是还是简单讲解以下思路吧！具体还是去看 std 的题解吧。那么，嘻嘻，还没有放链接呢，放一个：<a class="link" href="http://oi.cdshishi.net:9001/contest/65418be24d55610660675b82">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。好，现在来简单讲解一下思路。</p><h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>有一个 30 的常数？那么，就是每次尝试处理掉最小的，类似于栈，但是从小到大枚举每一次处理掉的数就行。还有方法就是呢，有同学用的单调栈，也是很行的。</p><h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>就是从大到小排序，加进来一个格子对行和列都有贡献。对的。很好。就是这样。然后处理一下就完了。</p><h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>推式子。我们考虑贡献。相同的按照第一个来。我们计算大区间一个格子有贡献的所有情况减去大小区间一个格子都有贡献。推一推式子就行，看起来并不是那么的难。</p><h2 id="T4"><a href="#T4" class="headerlink" title="T4"></a>T4</h2><p>目前还不会，还是会了更好。毕竟会了就会了，会了总是要好的？真的吗。虽然我并不知道会了是不是会更好，但是我还是愿意会的？真的吗？可能是觉得有些难度吧。但是总之，我可能还是很想会的？那就是这样吧！话说这道题和之前一道题很像，都是 lca 重不重叠，还是那个 noi 2018 的那个情报啥的，情报计划？也许是的，思路看起来有异曲同工之妙。[[2023年10月25日模拟赛#T4|2023年10月25日模拟赛]]。</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>现在要做 noip 真题。还是很难的。目前正尝试努力作出喵了个喵。很妙阿，嘻嘻。但是不管怎么说，我也不知道说啥，可能就是那样吧，你是懂的，就是那样！对。哈哈，你已经明白了，就是要这样子，向前冲吧？走过去也挺好的。</p><p>喜报！喵了个喵调出来拉！嘻嘻，太开心哩！有很多需要注意的地方，非常有教育意义！嘻嘻，我的任务完成啦！</p>]]></content>
-    
-    
-    <summary type="html">今天是11月的第一天哟！(＾Ｕ＾)ノ~！今天是学校运动会的开幕式，看起来挺热闹的，我们在做模拟赛！祝他们开心！</summary>
-    
-    
-    
-    <category term="总结" scheme="https://blog.huasushis.cn/categories/%E6%80%BB%E7%BB%93/"/>
-    
-    
-    <category term="树" scheme="https://blog.huasushis.cn/tags/%E6%A0%91/"/>
-    
-    <category term="noip" scheme="https://blog.huasushis.cn/tags/noip/"/>
-    
-    <category term="思维" scheme="https://blog.huasushis.cn/tags/%E6%80%9D%E7%BB%B4/"/>
     
   </entry>
   
