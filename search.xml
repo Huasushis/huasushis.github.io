@@ -3295,4 +3295,27 @@
         <tag>终寂主义</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年12月6日模拟赛</title>
+    <url>/2023/2023%E5%B9%B412%E6%9C%886%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p><a class="link" href="http://oi.cdshishi.net:9001/contest/656f1a4487e959064baee0c0">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>今天模拟赛掉大分了。100 都没上（其实高一就没有上 100 的，成绩十分惨烈），只有 36 分呜呜呜。</p>
+<p>今天是2023年12月6日，十月廿四，明天就是大雪了。今天天气晴朗，太阳挺暖和的。今天他们半期考试，校园里弥漫着考试后闲漫的氛围。一切安好。</p>
+<p>%一% ybh 大佬，太厉害哩（没有停课集训却薄纱我们）。</p>
+<h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><p>今天的题，感觉都很需要代码能力啊！</p>
+<h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>弱智题目薄纱我。显然可以看成四种情况，然后暴力二项式展开就可以了。记得用树状树组维护。鬼知道我为什么单点加区间查询要用线段树，害我卡常半天，可恶！</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>网络流题目。建图很那样，发现一条边最多一次，于是每个点拆成横竖两个点，如果一条边正反都流了其实可以把两个点交换一下就不重合了，这样搞最大流就完了（）。感觉自己好菜，建模能力还是不行。是一道 CF GYM 的原题。</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>感觉题解好长，DTY 的代码好短，模 DTY。线性基。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>来日方长，随机应变！</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>线段树</tag>
+        <tag>线性基</tag>
+        <tag>树状数组</tag>
+        <tag>二项式定理</tag>
+      </tags>
+  </entry>
 </search>
