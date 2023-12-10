@@ -1738,6 +1738,7 @@ x^n &= \sum_{i=0}^n \begin{Bmatrix}n\\\\i\end{Bmatrix}x^\underline{i}
 <p>然后是提高版本的拟阵博客（我看不懂，就先挂在这里了）：<a class="link" href="https://www.luogu.com.cn/blog/zght/matroid">从拟阵基础到 Shannon 开关游戏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>然后先做一下 <a class="link" href="https://www.luogu.com.cn/problem/CF1556H" title="DIY Tree">DIY Tree <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
 <p>注：这道题，写的时候 MLE 了，是清空的问题，详情请见 [[AFO 小技巧]] 的更新。</p>
+<p>总结一下拟阵交这类题，差不多就是有两个限制，要选一些东西，达到最优。生成树是最常见的其中一种限制，另外一个限制可以是随便一个拟阵。</p>
 <h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>这个题还是很好的，好评！很有趣的题目。</p>
 <p>一周又结束啦呵呵，他们半期也考完了。一切又都像什么都没有发生过一样了。</p>
 ]]></content>
@@ -2813,6 +2814,8 @@ x^n &= \sum_{i=0}^n \begin{Bmatrix}n\\\\i\end{Bmatrix}x^\underline{i}
 <hr>
 <h1 id="CF1556H"><a href="#CF1556H" class="headerlink" title="CF1556H"></a>CF1556H</h1><p><a class="link" href="https://www.luogu.com.cn/problem/CF1556H" title="DIY Tree">DIY Tree <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <p>来自 [[2023年12月9日模拟赛]] 的 T4 的知识点 #拟阵 的习题。</p>
+<p>简而言之，就是转化成了最小生成树和控制度数的两个拟阵求交。但是会发现直接搞度数这就不是个拟阵啊！<del>那还交个毛</del>，我们发现，造成这一切的主要都是前 k 个点内部连边会少 2 个度数，外面的是 0 或 1。于是我们暴力枚举 k 个点以内的连边情况就行。</p>
+<p>注意：最后求到的最大独立集要判断大小！因为有可能不是一个生成树！</p>
 ]]></content>
       <categories>
         <category>题解</category>
