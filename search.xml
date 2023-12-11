@@ -3362,4 +3362,47 @@ x^n &= \sum_{i=0}^n \begin{Bmatrix}n\\\\i\end{Bmatrix}x^\underline{i}
         <tag>教育</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年12月11日总结</title>
+    <url>/2023/2023%E5%B9%B412%E6%9C%8811%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>今天是字符串专题，美好的一天从字符串开始。阿巴啊把啊把。智商下线，想不出什么词。</p>
+<p>膜拜将字符串掌握得炉火纯青的大佬。（是谁呢？先膜就是了）</p>
+<h2 id="Manacher"><a href="#Manacher" class="headerlink" title="Manacher"></a>Manacher</h2><p>感觉思路和 z 函数好像哦。</p>
+<p><a class="link" href="https://www.luogu.com.cn/problem/P3805" title="【模板】manacher">【模板】manacher <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 发现还没写过模板，写一下。</p>
+<p><a class="link" href="https://www.luogu.com.cn/problem/P9646" title="[SNCPC2019] Paper-cutting">[SNCPC2019] Paper-cutting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 在二维上面的，但是和一维差不多，很好，用 string 能过。</p>
+<h2 id="回文自动机-PAM"><a href="#回文自动机-PAM" class="headerlink" title="回文自动机 PAM"></a>回文自动机 PAM</h2><p>众所周知，一个字符串不同的回文子串最多 n 个。</p>
+<p>但是我们先来了解一下什么是自动机。</p>
+<p><a class="link" href="https://oi-wiki.org/string/automaton/">自动机 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是一种数学模型。</p>
+<p>放一个博客，无聊的时候可以看：<a class="link" href="https://lingeros-tot.github.io/2019/03/05/Warming-Up-%E8%87%AA%E5%8A%A8%E6%9C%BA%E6%A8%A1%E5%9E%8B/">计算复杂性（1）Warming Up: 自动机模型 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p><a class="link" href="https://www.luogu.com.cn/problem/P3649" title="[APIO2014] 回文串">[APIO2014] 回文串 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 做过，放在这里。</p>
+<p>鸽一道题：<strong>待做</strong> <a class="link" href="https://codeforces.com/problemset/problem/932/G">Codeforces 932G Palindrome Partition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h2 id="后缀数组"><a href="#后缀数组" class="headerlink" title="后缀数组"></a>后缀数组</h2><p><a class="link" href="https://www.luogu.com.cn/problem/P3809" title="【模板】后缀排序">【模板】后缀排序 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 板题，再打一遍，要注意排序的时候更新每个位置的值要取位置不是排名。</p>
+<p><a class="link" href="https://www.luogu.com.cn/problem/P3804" title="【模板】后缀自动机（SAM）">【模板】后缀自动机（SAM） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 后缀数组做法。单调栈搞一下。</p>
+<p><a href>P2852 [USACO06DEC] Milk Patterns G</a> 后缀数组板题。</p>
+<h2 id="后缀自动机"><a href="#后缀自动机" class="headerlink" title="后缀自动机"></a>后缀自动机</h2><p>还是先将就那个板子来。</p>
+<p>看了 OI Wiki，感觉对 SAM 又有了梗清晰的认知。大概就是每个节点对应一种状态，要转移，每个状态包含一个最大的字符串和一些连续的后缀，边就是转移，指针指的就是前一个。</p>
+<p>感觉豁然开朗，茅塞顿开！好神奇！</p>
+<h2 id="保序回归问题"><a href="#保序回归问题" class="headerlink" title="保序回归问题"></a>保序回归问题</h2><p>先是普通链上的情况：<a href="https://www.luogu.com.cn/problem/P4331"><strong>P4331</strong> [BalticOI 2004] Sequence 数字序列</a></p>
+<p>DAG 的情况：</p>
+<p><a href="https://www.luogu.com.cn/problem/CF1615H"><strong>CF1615H</strong> Reindeer Games</a></p>
+<p><a href="https://www.luogu.com.cn/problem/P6621"><strong>P6621</strong> [省选联考 2020 A 卷] 魔法商店</a></p>
+<p><strong>待做</strong>！！！</p>
+<h2 id="线性规划问题"><a href="#线性规划问题" class="headerlink" title="线性规划问题"></a>线性规划问题</h2><p>单纯形算法。</p>
+<p>对偶。</p>
+<p>不是很懂，哈，呵，等着吧。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>我爱字符串！字符串有一种古板的美丽！</p>
+<div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="code"><pre><span class="line">一语子串不知意，翻来覆去却相同。</span><br><span class="line">不知重重有多少？后缀星光耀眼红。</span><br></pre></td></tr></table></figure></div>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>字符串</tag>
+        <tag>manacher</tag>
+        <tag>PAM</tag>
+        <tag>SA</tag>
+        <tag>保序回归</tag>
+        <tag>线性规划</tag>
+      </tags>
+  </entry>
 </search>
