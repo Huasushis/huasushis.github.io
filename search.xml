@@ -3497,4 +3497,24 @@ x^n &= \sum_{i=0}^n \begin{Bmatrix}n\\\\i\end{Bmatrix}x^\underline{i}
         <tag>终寂主义</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年12月14日模拟赛</title>
+    <url>/2023/2023%E5%B9%B412%E6%9C%8814%E6%97%A5%E6%A8%A1%E6%8B%9F%E8%B5%9B/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>今天是模拟赛，哈哈，计算几何。哈哈。哈哈。哈哈。<a class="link" href="http://oi.cdshishi.net:9001/contest/657994491e16820638c6884a">link <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p>不想说太多了，上上上！</p>
+<p>算了，还是多说一点。今天的题目……质量还是很高啊。哈，自己还是很🥬啊。</p>
+<h1 id="题解"><a href="#题解" class="headerlink" title="题解"></a>题解</h1><p>这里是简要的思路。</p>
+<h2 id="T1"><a href="#T1" class="headerlink" title="T1"></a>T1</h2><p>一眼闵可夫斯基和，参看 <a class="link" href="https://www.luogu.com.cn/problem/P4557">[JSOI2018] 战争 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，然后对于速度求到一条边最短距离即可。</p>
+<h2 id="T2"><a href="#T2" class="headerlink" title="T2"></a>T2</h2><p>容易发现一些规律，直接加减，发现和 c 的历史最低值有关。标注题解的证明有一点复杂，这里提供一种形式化的证明。考虑 0 刻度线上的点表示 a 的值为 0。a 的值为相对 0 刻度线的位置。考虑一次减法，如果减到小于 0，则 0 刻度线要向下移动 k。如此理解，就是那样了。</p>
+<h2 id="T3"><a href="#T3" class="headerlink" title="T3"></a>T3</h2><p>考虑尾巴加一个进去的改变，<mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.566ex;" xmlns="http://www.w3.org/2000/svg" width="6.938ex" height="2.71ex" role="img" focusable="false" viewbox="0 -948 3066.6 1198"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="TeXAtom" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="4F" d="M308 428Q289 428 289 438Q289 457 318 508T378 593Q417 638 475 671T599 705Q688 705 732 643T777 483Q777 380 733 285T620 123T464 18T293 -22Q188 -22 123 51T58 245Q58 327 87 403T159 533T249 626T333 685T388 705Q404 705 404 693Q404 674 363 649Q333 632 304 606T239 537T181 429T158 290Q158 179 214 114T364 48Q489 48 583 165T677 438Q677 473 670 505T648 568T601 617T528 636Q518 636 513 635Q486 629 460 600T419 544T392 490Q383 470 372 459Q341 430 308 428Z"/></g></g><g data-mml-node="mo" transform="translate(796,0)"><path data-c="28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"/></g><g data-mml-node="mover" transform="translate(1185,0)"><g data-mml-node="mo"><path data-c="2211" d="M61 748Q64 750 489 750H913L954 640Q965 609 976 579T993 533T999 516H979L959 517Q936 579 886 621T777 682Q724 700 655 705T436 710H319Q183 710 183 709Q186 706 348 484T511 259Q517 250 513 244L490 216Q466 188 420 134T330 27L149 -187Q149 -188 362 -188Q388 -188 436 -188T506 -189Q679 -189 778 -162T936 -43Q946 -27 959 6H999L913 -249L489 -250Q65 -250 62 -248Q56 -246 56 -239Q56 -234 118 -161Q186 -81 245 -11L428 206Q428 207 242 462L57 717L56 728Q56 744 61 748Z"/></g><g data-mml-node="mn" transform="translate(1089,477.1) scale(0.707)"><path data-c="32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"/></g></g><g data-mml-node="mo" transform="translate(2677.6,0)"><path data-c="29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"/></g></g></g></svg></mjx-container> 的复杂度，然后考虑合并，一样的。然后点分治点分树上面搞就行。写不来。也可以倍增。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>灵变之意，人能自通。朝花夕拾，造化弄人。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>树</tag>
+        <tag>计算几何</tag>
+      </tags>
+  </entry>
 </search>
