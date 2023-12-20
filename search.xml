@@ -3727,4 +3727,27 @@
         <tag>倍增</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年12月20日总结</title>
+    <url>/2023/2023%E5%B9%B412%E6%9C%8820%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>今天开始啦！今天是做历年省选的题目。今天早上起来先把前几天没有打完的那道交互题：考拉打了。然后准备开始做省选题目了。</p>
+<p><a class="link" href="https://www.luogu.com.cn/problem/P9167">P9167 [省选联考 2023] 城市建造 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 又是一道圆方树的题目。这里使用 JCY_ 大佬的题解。使用并查集合并子树。感觉他的码风好好，学习学习，要尽量模块化的代码，比如一种算法/数据结构放在一个 namespace 或者一个类里。可以防止想不到变量名的问题。记录一下一个小问题。在建立圆方树的时候要注意弹出是到儿子弹出后停止，而不是弹出到直到栈顶才结束，务必要注意！因为其它儿子可能连接的是更上面的点，没有弹出去！</p>
+<p><a class="link" href="https://www.luogu.com.cn/problem/P9169" title="[省选联考 2023] 过河卒">[省选联考 2023] 过河卒 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 参考了樱雪喵的代码，膜一膜。思路很清晰。就一个 bfs 还有一个类似于拓扑排序的东西。然后就能搞出来了。注意如果必输要找时间尽量大的，必胜要时间尽量小。</p>
+<h2 id="后缀平衡树"><a href="#后缀平衡树" class="headerlink" title="后缀平衡树"></a>后缀平衡树</h2><p>没有学会。替罪羊？有旋 Treap？不可能的，等以后无聊了再来学习。学习这个不如学习多项式。</p>
+<p>据说明天要考，但是已经无所谓了，我会骗分。</p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>今天又要结束了，感觉省选好难（不难能叫省选吗？）</p>
+<p>清清冰上原，瑟瑟锢人心。</p>
+<p>广阔通宇宙，皆在不言中。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>暴力</tag>
+        <tag>省选</tag>
+        <tag>圆方树</tag>
+        <tag>bfs</tag>
+        <tag>后缀平衡树</tag>
+      </tags>
+  </entry>
 </search>
