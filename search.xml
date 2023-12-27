@@ -3795,4 +3795,20 @@
         <tag>省选模拟</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2023年12月27日总结</title>
+    <url>/2023/2023%E5%B9%B412%E6%9C%8827%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>最近几天感觉没有上周那么冷了。冬月15，今年马上就要结束啦！</p>
+<p>今天早上尝试理解昨天 T2。成功！就是那样。你懂的。就是递归满足有一半是一样的序列的异或卷积就是那样的。注意顺序。</p>
+<p>下午把代码写了，尝试学习 min-25 筛。</p>
+<p><a class="link" href="https://blog.csdn.net/HiChocolate/article/details/106139309">链接 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>不是很想写，拜拜。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>min-25筛</tag>
+      </tags>
+  </entry>
 </search>
