@@ -3921,4 +3921,27 @@
         <tag>短多项式幂</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2024年1月4日总结</title>
+    <url>/2024/2024%E5%B9%B41%E6%9C%884%E6%97%A5%E6%80%BB%E7%BB%93/</url>
+    <content><![CDATA[<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>冬月廿三，天气还是有一点寒冷。雾气很大，能见度很小。所幸空气还算清新。挺漂亮的。</p>
+<h2 id="CF1085G-Beautiful-Matrix"><a href="#CF1085G-Beautiful-Matrix" class="headerlink" title="CF1085G Beautiful Matrix"></a>CF1085G <a class="link" href="http://www.nfls.com.cn:10611/contest/1115/problem/4">Beautiful Matrix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h2><p>就是组合数学的内容。第一行康托展开，然后后面的行就依次枚举前面都相同再哪一个开始变小，然后维护一个 <mjx-container class="MathJax" jax="SVG"><svg style="vertical-align: -0.666ex;" xmlns="http://www.w3.org/2000/svg" width="2.952ex" height="2.261ex" role="img" focusable="false" viewbox="0 -705 1304.9 999.2"><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="msub"><g data-mml-node="mi"><path data-c="1D453" d="M118 -162Q120 -162 124 -164T135 -167T147 -168Q160 -168 171 -155T187 -126Q197 -99 221 27T267 267T289 382V385H242Q195 385 192 387Q188 390 188 397L195 425Q197 430 203 430T250 431Q298 431 298 432Q298 434 307 482T319 540Q356 705 465 705Q502 703 526 683T550 630Q550 594 529 578T487 561Q443 561 443 603Q443 622 454 636T478 657L487 662Q471 668 457 668Q445 668 434 658T419 630Q412 601 403 552T387 469T380 433Q380 431 435 431Q480 431 487 430T498 424Q499 420 496 407T491 391Q489 386 482 386T428 385H372L349 263Q301 15 282 -47Q255 -132 212 -173Q175 -205 139 -205Q107 -205 81 -186T55 -132Q55 -95 76 -78T118 -61Q162 -61 162 -103Q162 -122 151 -136T127 -157L118 -162Z"/></g><g data-mml-node="TeXAtom" transform="translate(523,-150) scale(0.707)" data-mjx-texclass="ORD"><g data-mml-node="mi"><path data-c="1D456" d="M184 600Q184 624 203 642T247 661Q265 661 277 649T290 619Q290 596 270 577T226 557Q211 557 198 567T184 600ZM21 287Q21 295 30 318T54 369T98 420T158 442Q197 442 223 419T250 357Q250 340 236 301T196 196T154 83Q149 61 149 51Q149 26 166 26Q175 26 185 29T208 43T235 78T260 137Q263 149 265 151T282 153Q302 153 302 143Q302 135 293 112T268 61T223 11T161 -11Q129 -11 102 10T74 74Q74 91 79 106T122 220Q160 321 166 341T173 380Q173 404 156 404H154Q124 404 99 371T61 287Q60 286 59 284T58 281T56 279T53 278T49 278T41 278H27Q21 284 21 287Z"/></g><g data-mml-node="mo" transform="translate(345,0)"><path data-c="2C" d="M78 35T78 60T94 103T137 121Q165 121 187 96T210 8Q210 -27 201 -60T180 -117T154 -158T130 -185T117 -194Q113 -194 104 -185T95 -172Q95 -168 106 -156T131 -126T157 -76T173 -3V9L172 8Q170 7 167 6T161 3T152 1T140 0Q113 0 96 17Z"/></g><g data-mml-node="mi" transform="translate(623,0)"><path data-c="1D457" d="M297 596Q297 627 318 644T361 661Q378 661 389 651T403 623Q403 595 384 576T340 557Q322 557 310 567T297 596ZM288 376Q288 405 262 405Q240 405 220 393T185 362T161 325T144 293L137 279Q135 278 121 278H107Q101 284 101 286T105 299Q126 348 164 391T252 441Q253 441 260 441T272 442Q296 441 316 432Q341 418 354 401T367 348V332L318 133Q267 -67 264 -75Q246 -125 194 -164T75 -204Q25 -204 7 -183T-12 -137Q-12 -110 7 -91T53 -71Q70 -71 82 -81T95 -112Q95 -148 63 -167Q69 -168 77 -168Q111 -168 139 -140T182 -74L193 -32Q204 11 219 72T251 197T278 308T289 365Q289 372 288 376Z"/></g></g></g></g></g></svg></mjx-container> 表示不完全错排就行。</p>
+<p>下面一道题要用到插头 dp 的思想，去学习学习。</p>
+<p>做了一下 <a class="link" href="https://vjudge.net/problem/HDU-1400">「HDU 1400」Mondriaan’s Dream <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<h2 id="P5056-【模板】插头-DP"><a href="#P5056-【模板】插头-DP" class="headerlink" title="P5056 【模板】插头 DP"></a>P5056 【模板】插头 DP</h2><p>参看博客：<a class="link" href="https://www.luogu.com.cn/blog/GNAQ/solution-p5056">啊哈懒得复制了 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p>就是很妙的分类讨论！感觉括号匹配法更好写。写起来很可爱，很多分类讨论。暴力的话有 9 种情况，但是有一些是重复的。</p>
+<p>听说要推广 C++17 了，好耶！</p>
+<p>但是我这样直接暴力讨论感觉有一点点复杂……我用了总共 177 行，OI-WIKI 上才 90 多行……。</p>
+<h2 id="Eat-the-Trees"><a href="#Eat-the-Trees" class="headerlink" title="Eat the Trees"></a><a class="link" href="https://www.luogu.com.cn/problem/P5074" title="Eat the Trees">Eat the Trees <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></h2><p>很多个环，所以不需要括号序列。更简单。</p>
+]]></content>
+      <categories>
+        <category>总结</category>
+      </categories>
+      <tags>
+        <tag>dp</tag>
+        <tag>数学</tag>
+        <tag>计数</tag>
+        <tag>插头dp</tag>
+      </tags>
+  </entry>
 </search>
